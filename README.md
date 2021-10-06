@@ -25,10 +25,10 @@
 
 ### Configurando o Git
 - Configurar o nome de usuário\
-  git config --global user.name "seu nome"\
+  git config --global user.name "seu nome"
 - Configurando o endereço de e-mail (Importante que o endereço informado seja o mesmo cadastrado no GitHub)\
-  git config --global user.email seu_email\
+  git config --global user.email seu_email
 - Conferir a lista de configurações\
   git config --list\
-  \
+  
 - Git instalado e configurado
