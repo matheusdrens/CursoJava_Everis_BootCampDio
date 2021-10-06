@@ -29,6 +29,6 @@
 - Configurando o endereço de e-mail (Importante que o endereço informado seja o mesmo cadastrado no GitHub)\
   git config --global user.email seu_email
 - Conferir a lista de configurações\
-  git config --list\
+  git config --list
   
 - Git instalado e configurado
