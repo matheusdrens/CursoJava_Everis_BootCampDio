@@ -32,3 +32,25 @@
   git config --list
   
 - Git instalado e configurado
+
+### Instalação Eclipse
+1 - Acessar o site do [Eclipse] https://www.eclipse.org/downloads/ \
+2 - Baixar o instalador do arquivo\
+3 - Escolhe "Eclipse IDE for Enterprise Java and Web Developers"\
+4 - Clicar na opção "java 11"
+5 - Install
+6 - Accept now
+Lauch
+A partir de agora a instalação foi concluida
+
+### Instalação IntelliJ IDEA Community
+1 - Entrar no site do [INTELLIJ] https://www.jetbrains.com/idea/download/#section=windows \
+2 - Baixar pela opção community\
+3 - seguir com next\
+4 - Na opção Installation Options, deixe selecionado as opções: 4.1 64-bit launcher 4.2 Add "Open Folder as Project" 4.3 .java - .groovy - .kt - .kts 4.4 Add lauchers dir to the PATH 4.5 Next\
+5 - Install\
+6 - Escolher a opção reboot later\
+7 -Após instalar, inicie...\
+- Aceitar os termos\
+-Data Sharing >> Send anonymous Statistics\
+8 - Finalizado.
