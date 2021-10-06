@@ -24,11 +24,11 @@
 3 - Para verificar a se o git ja foi instalado, devo ir no CMD e digitar "git --version", vai aparecer a versão do Git instalado.
 
 ### Configurando o Git
-- Configurar o nome de usuário
-  git config --global user.name "seu nome"
-- Configurando o endereço de e-mail (Importante que o endereço informado seja o mesmo cadastrado no GitHub)
-  git config --global user.email seu_email
-- Conferir a lista de configurações
-  git config --list
-  
+- Configurar o nome de usuário\
+  git config --global user.name "seu nome"\
+- Configurando o endereço de e-mail (Importante que o endereço informado seja o mesmo cadastrado no GitHub)\
+  git config --global user.email seu_email\
+- Conferir a lista de configurações\
+  git config --list\
+  \
 - Git instalado e configurado
