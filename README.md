@@ -54,3 +54,18 @@ A partir de agora a instalação foi concluida
 - Aceitar os termos\
 -Data Sharing >> Send anonymous Statistics\
 8 - Finalizado.
+
+### Fazendo outros cursos
+Acredito que posso me aprofundar cada vez mais dentro da Linguagem de programação e paralelo a este Bootcamp\ estou fazendo um curso do Gustavo Guanabara que tenho certeza que vai me auxiliar demais no processo de aprendizagem.\
+https://www.cursoemvideo.com/curso/java-basico/ \
+Com certeza vai agregar muito conhecimento dentro do processo de BootCamp.\
+Vale lembrar que o curso do https://www.cursoemvideo.com/curso/java-basico/ é gratuito mas a emissão do certificado é paga, mas um preço bem acessível.
+
+
+### LEMBRETES
+#### configuração
+- POR CONVENÇÃO, AS CLASSES NO JAVA SEMPRE COMEÇAM COM LETRAS MAIÚSCULAS, EX: (MalucoBeleza)
+- O principal método para executar um programa em java é: public static void main (String[] args)
+
+#### comandos
+Para escrever um comando: System.out.println("Hello Word"); -> para escrever Hello Word por exemplo
